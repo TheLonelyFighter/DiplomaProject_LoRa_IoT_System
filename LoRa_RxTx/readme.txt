@@ -1,0 +1,1 @@
+This folder contains code for transmitting and receiving data using the RFM95W LoRa module controlled by an 8-bit AtMega328 microcontroller. The code contains a proof of concept implementation of sending the internal temperature sensor data to the LoRa gateway.
